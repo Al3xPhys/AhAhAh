@@ -1,4 +1,4 @@
-nedry_tab_widget() 
+nedry_tab_widget(){ 
     # Only trigger for commands starting with "nedry"
 
         printf '\n'
