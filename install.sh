@@ -3,7 +3,6 @@
 mkdir -p ~/.nedry
 
 cp nedry.txt ~/.nedry/
-cp ahahah.wav ~/.nedry/
 cp nedry-zsh-hook.zsh ~/.nedry/
 
 if ! grep -q "nedry-zsh-hook.zsh" ~/.zshrc; then
